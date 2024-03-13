@@ -1,0 +1,13 @@
+{
+  "name": "koa-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node src"
+  },
+  "dependencies": {
+    "koa": "^2.15.0",
+    "koa-router": "^12.0.1"
+  }
+}
